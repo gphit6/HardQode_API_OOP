@@ -1,0 +1,2 @@
+Запуск Post запроса для Создания  животного
+HTTP ошибка: 404 Client Error: Not Found for url: http://91.210.171.73:8080/api/pet/
